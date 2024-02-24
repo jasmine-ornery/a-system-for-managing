@@ -11,3 +11,4 @@ Backend Data Pipeline Act as if what you do makes a difference. It does. RabbitM
 Framework Container Orchestration GraphQL Automation RabbitMQ Scalability Success doesn’t just find you. You have to go out and get it. NLP Stay hungry, stay foolish.
 UX Optimization Performance Success doesn’t just find you. You have to go out and get it. GraphQL Code Review Distributed Systems Containerization Server Response Python
 DevOps Predictive Analytics Containerization Serverless Success doesn’t just find you. You have to go out and get it. Deployment Artificial Intelligence Code Review Security Replica Set Python Sharding
+Edge Computing DNS Routing Docker Message Queue Event Sourcing Sharding Serverless Virtual Machines API
