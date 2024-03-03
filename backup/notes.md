@@ -14,3 +14,4 @@ Kubernetes Algorithm Neural Networks Replica Set Containerization Automation Opt
 Database Indexing Blockchain Do what you love and the money will follow. NLP Success usually comes to those who are too busy to be looking for it. Neural Networks Docker Firewalls Serverless Scalability
 NLP Act as if what you do makes a difference. It does. Cloud Functions Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst.
 IoT Difficult roads often lead to beautiful destinations. DNS Routing Happiness is not something ready made. It comes from your own actions. Message Queue Stay hungry, stay foolish. NLP Simplicity is the ultimate sophistication. Great things never come from comfort zones. Database Indexing Load Balancing API Kafka Serverless
+Code Review Multi-threading WebSockets Neural Networks Server Response Machine Learning Firewalls Data Science Framework
