@@ -11,3 +11,4 @@ Message Queue Multi-threading Performance RabbitMQ A/B Testing Parallel Processi
 A/B Testing API Gateway DNS Routing OAuth Agile IoT Containerization
 Deployment Distributed Systems Pull Request Replica Set To be the best, you must be able to handle the worst. Cache Invalidation
 Automation Backend WebSockets Deployment Cloud Functions OAuth Cache Invalidation Content Delivery Network Code Review Event-driven Architecture Quantum Computing Data Pipeline Docker Version Control Big Data
+Automation Opportunities don't happen. You create them. GraphQL Distributed Systems Artificial Intelligence Parallel Processing Great things never come from comfort zones.
