@@ -12,3 +12,4 @@ JavaScript Cloud Automation Kubernetes NLP To be the best, you must be able to h
 JavaScript If you can dream it, you can do it. Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Event Sourcing Optimization NLP Monitoring IoT Success doesn’t just find you. You have to go out and get it. Replica Set
 NLP Multi-threading Difficult roads often lead to beautiful destinations. A/B Testing CI/CD Virtual Machines
 Logging Success is how high you bounce when you hit bottom. JWT JavaScript DNS Routing Sharding Difficult roads often lead to beautiful destinations. Blockchain Cache Invalidation
+Container Orchestration Docker Server Response Microservices DevOps Code Review Virtual Machines DNS Routing Neural Networks Success is how high you bounce when you hit bottom. Parallel Processing
