@@ -11,3 +11,4 @@ Do what you love and the money will follow. Simplicity is the ultimate sophistic
 Distributed Systems Parallel Processing Cloud Scalability Zero Downtime Deployment Do what you love and the money will follow. Firewalls
 API Gateway Data Science IoT Optimization Latency Optimization Algorithm Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Cloud Data Pipeline Serverless Happiness is not something ready made. It comes from your own actions.
 Big Data Kafka I find that the harder I work, the more luck I seem to have. DevOps Content Delivery Network
+I find that the harder I work, the more luck I seem to have. JWT Scalability CI/CD IoT Zero Downtime Deployment Agile Testing Data Science Frontend Multi-threading Big Data
