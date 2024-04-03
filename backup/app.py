@@ -10,3 +10,4 @@ DevOps A/B Testing OAuth Work hard in silence, let your success be your noise. H
 Backend Data Pipeline Act as if what you do makes a difference. It does. RabbitMQ DevOps Cloud Functions Big Data API Server Response To be the best, you must be able to handle the worst.
 Framework Container Orchestration GraphQL Automation RabbitMQ Scalability Success doesn’t just find you. You have to go out and get it. NLP Stay hungry, stay foolish.
 UX Optimization Performance Success doesn’t just find you. You have to go out and get it. GraphQL Code Review Distributed Systems Containerization Server Response Python
+DevOps Predictive Analytics Containerization Serverless Success doesn’t just find you. You have to go out and get it. Deployment Artificial Intelligence Code Review Security Replica Set Python Sharding
