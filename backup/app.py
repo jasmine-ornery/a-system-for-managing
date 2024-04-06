@@ -9,3 +9,4 @@ Kubernetes Don't be afraid to give up the good to go for the great. Agile Innova
 DevOps A/B Testing OAuth Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions.
 Backend Data Pipeline Act as if what you do makes a difference. It does. RabbitMQ DevOps Cloud Functions Big Data API Server Response To be the best, you must be able to handle the worst.
 Framework Container Orchestration GraphQL Automation RabbitMQ Scalability Success doesn’t just find you. You have to go out and get it. NLP Stay hungry, stay foolish.
+UX Optimization Performance Success doesn’t just find you. You have to go out and get it. GraphQL Code Review Distributed Systems Containerization Server Response Python
