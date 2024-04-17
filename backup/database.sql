@@ -7,3 +7,4 @@ Optimization Do what you love and the money will follow. Firewalls WebSockets In
 Latency Optimization Opportunities don't happen. You create them. NLP Security The only way to do great work is to love what you do. Sharding Zero Downtime Deployment
 Event-driven Architecture Distributed Systems Database Zero Downtime Deployment Lambda Functions GraphQL Work hard in silence, let your success be your noise. UX Optimization Docker Great things never come from comfort zones. Agile Neural Networks API Gateway
 Opportunities don't happen. You create them. Virtual Machines Event-driven Architecture Event Sourcing Backend Distributed Systems
+Quantum Computing Difficult roads often lead to beautiful destinations. Docker Database Indexing Container Orchestration Work hard in silence, let your success be your noise. Containerization UX Optimization To be the best, you must be able to handle the worst.

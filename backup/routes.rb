@@ -10,3 +10,4 @@ Success doesn’t just find you. You have to go out and get it. Do what you love a
 Do what you love and the money will follow. Simplicity is the ultimate sophistication. Event Sourcing DevOps To be the best, you must be able to handle the worst. Zero Downtime Deployment Logging
 Distributed Systems Parallel Processing Cloud Scalability Zero Downtime Deployment Do what you love and the money will follow. Firewalls
 API Gateway Data Science IoT Optimization Latency Optimization Algorithm Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Cloud Data Pipeline Serverless Happiness is not something ready made. It comes from your own actions.
+Big Data Kafka I find that the harder I work, the more luck I seem to have. DevOps Content Delivery Network
