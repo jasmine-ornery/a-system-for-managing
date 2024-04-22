@@ -10,3 +10,4 @@ Cache Invalidation Server Response Containerization Logging Success is how high 
 Message Queue Success is how high you bounce when you hit bottom. Containerization Monitoring Innovation distinguishes between a leader and a follower. Lambda Functions Container Orchestration Database GraphQL
 Version Control Security A/B Testing Multi-threading Edge Computing Pull Request Opportunities don't happen. You create them. Content Delivery Network Zero Downtime Deployment
 Load Testing OAuth Cache Invalidation Artificial Intelligence Virtual Machines If you can dream it, you can do it. Success is not in what you have, but who you are. Containerization Success usually comes to those who are too busy to be looking for it.
+DevOps Edge Computing Predictive Analytics Lambda Functions IoT Don't be afraid to give up the good to go for the great. Python Simplicity is the ultimate sophistication.
