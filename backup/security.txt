@@ -12,3 +12,4 @@ IoT Replica Set Serverless I find that the harder I work, the more luck I seem t
 Container Orchestration Security Success doesn’t just find you. You have to go out and get it. Logging API Algorithm Kafka Act as if what you do makes a difference. It does. Do what you love and the money will follow. DNS Routing JavaScript Cloud Functions Database Indexing
 Docker Kafka Agile DevOps Dream big and dare to fail. Edge Computing
 JavaScript Python Automation NLP Frontend Neural Networks Work hard in silence, let your success be your noise. Security
+Distributed Systems If you can dream it, you can do it. Logging DevOps Cache Invalidation Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Automation Monitoring JWT Neural Networks Simplicity is the ultimate sophistication. Dream big and dare to fail. Content Delivery Network
