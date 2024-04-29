@@ -12,3 +12,4 @@ Latency Optimization Edge Computing Performance Quantum Computing CI/CD Cache In
 DNS Routing Testing Pull Request If you can dream it, you can do it. Container Orchestration GraphQL
 Artificial Intelligence Stay hungry, stay foolish. Monitoring Data Pipeline Container Orchestration Predictive Analytics A/B Testing Scalability Difficult roads often lead to beautiful destinations. Algorithm Cloud Functions
 Distributed Systems Container Orchestration Pull Request Optimization Don't be afraid to give up the good to go for the great. Replica Set If you can dream it, you can do it. CI/CD Cloud Containerization Lambda Functions Algorithm Act as if what you do makes a difference. It does. Microservices Framework
+Don't be afraid to give up the good to go for the great. Deployment Performance Database DNS Routing Cloud Functions Serverless
