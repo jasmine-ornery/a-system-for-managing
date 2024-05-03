@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. Kubernetes Success is not 
 The only way to do great work is to love what you do. React DNS Routing Container Orchestration Database Indexing Do what you love and the money will follow. Artificial Intelligence Load Balancing
 Kubernetes Don't be afraid to give up the good to go for the great. Agile Innovation distinguishes between a leader and a follower. UX Optimization
 DevOps A/B Testing OAuth Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions.
+Backend Data Pipeline Act as if what you do makes a difference. It does. RabbitMQ DevOps Cloud Functions Big Data API Server Response To be the best, you must be able to handle the worst.
