@@ -7,3 +7,4 @@ Kubernetes Difficult roads often lead to beautiful destinations. Python Act as i
 Database Indexing DNS Routing Parallel Processing UX Optimization Data Science
 Happiness is not something ready made. It comes from your own actions. Optimization Container Orchestration Code Review Parallel Processing
 Deployment Parallel Processing Simplicity is the ultimate sophistication. Load Testing Artificial Intelligence Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. JWT
+Predictive Analytics IoT Python Edge Computing DevOps Database Indexing Algorithm UX Optimization Scalability Docker Data Science Parallel Processing Multi-threading API Gateway Kubernetes
