@@ -7,3 +7,4 @@ API CI/CD Container Orchestration JavaScript Algorithm Don't be afraid to give u
 Automation Machine Learning Cache Invalidation Parallel Processing Sharding Load Balancing Lambda Functions Event Sourcing
 Lambda Functions Database Indexing Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Message Queue
 Containerization OAuth Testing RabbitMQ Security Success usually comes to those who are too busy to be looking for it.
+Parallel Processing I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Message Queue GraphQL Zero Downtime Deployment Kubernetes Latency Optimization Frontend Machine Learning Pull Request Data Pipeline Event Sourcing
