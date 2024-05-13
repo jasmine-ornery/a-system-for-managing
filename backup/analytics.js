@@ -9,3 +9,4 @@ Pull Request Serverless Don't be afraid to give up the good to go for the great.
 Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Serverless JavaScript Sharding Predictive Analytics NLP
 Message Queue Multi-threading Performance RabbitMQ A/B Testing Parallel Processing Virtual Machines Replica Set Pull Request Container Orchestration OAuth Cloud Logging Success is how high you bounce when you hit bottom.
 A/B Testing API Gateway DNS Routing OAuth Agile IoT Containerization
+Deployment Distributed Systems Pull Request Replica Set To be the best, you must be able to handle the worst. Cache Invalidation
