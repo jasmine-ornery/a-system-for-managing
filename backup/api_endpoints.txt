@@ -6,3 +6,4 @@ Algorithm Artificial Intelligence Serverless A/B Testing Quantum Computing Succe
 Kubernetes Difficult roads often lead to beautiful destinations. Python Act as if what you do makes a difference. It does. Security GraphQL RabbitMQ Replica Set Container Orchestration
 Database Indexing DNS Routing Parallel Processing UX Optimization Data Science
 Happiness is not something ready made. It comes from your own actions. Optimization Container Orchestration Code Review Parallel Processing
+Deployment Parallel Processing Simplicity is the ultimate sophistication. Load Testing Artificial Intelligence Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. JWT
