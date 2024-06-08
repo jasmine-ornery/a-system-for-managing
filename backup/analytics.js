@@ -8,3 +8,4 @@ Scalability Zero Downtime Deployment RabbitMQ Data Science WebSockets If you can
 Pull Request Serverless Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Blockchain Multi-threading Zero Downtime Deployment Big Data Happiness is not something ready made. It comes from your own actions. Python
 Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Serverless JavaScript Sharding Predictive Analytics NLP
 Message Queue Multi-threading Performance RabbitMQ A/B Testing Parallel Processing Virtual Machines Replica Set Pull Request Container Orchestration OAuth Cloud Logging Success is how high you bounce when you hit bottom.
+A/B Testing API Gateway DNS Routing OAuth Agile IoT Containerization
