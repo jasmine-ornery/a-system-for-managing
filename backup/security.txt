@@ -10,3 +10,4 @@ RabbitMQ Testing Microservices Frontend Security
 Stay hungry, stay foolish. Latency Optimization OAuth WebSockets Big Data Neural Networks Microservices
 IoT Replica Set Serverless I find that the harder I work, the more luck I seem to have. DNS Routing Success doesn’t just find you. You have to go out and get it. Docker
 Container Orchestration Security Success doesn’t just find you. You have to go out and get it. Logging API Algorithm Kafka Act as if what you do makes a difference. It does. Do what you love and the money will follow. DNS Routing JavaScript Cloud Functions Database Indexing
+Docker Kafka Agile DevOps Dream big and dare to fail. Edge Computing

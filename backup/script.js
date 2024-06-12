@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. Opportunities don't
 Event Sourcing Success usually comes to those who are too busy to be looking for it. Blockchain WebSockets Kubernetes
 Simplicity is the ultimate sophistication. Automation Lambda Functions Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions.
 OAuth Performance Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. API API Gateway Docker UX Optimization Blockchain Success doesn’t just find you. You have to go out and get it. Latency Optimization Automation
+Stay hungry, stay foolish. WebSockets Scalability Cloud Functions Simplicity is the ultimate sophistication. A/B Testing The only way to do great work is to love what you do. Server Response JavaScript GraphQL Event Sourcing Security Event-driven Architecture DevOps
