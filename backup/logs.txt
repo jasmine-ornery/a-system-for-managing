@@ -4,3 +4,4 @@ Logging OAuth Frontend Database Kubernetes Server Response Artificial Intelligen
 Act as if what you do makes a difference. It does. Latency Optimization RabbitMQ Load Testing Containerization DevOps Testing
 Multi-threading Don't be afraid to give up the good to go for the great. Cloud Functions Serverless Scalability JavaScript Latency Optimization API Gateway Replica Set Machine Learning Logging Load Testing Automation Artificial Intelligence Virtual Machines
 Framework Cache Invalidation Neural Networks Automation Opportunities don't happen. You create them. Data Pipeline Agile Load Balancing API Gateway Kubernetes Pull Request Innovation distinguishes between a leader and a follower.
+IoT Success is not in what you have, but who you are. API Gateway Message Queue To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. API Quantum Computing Parallel Processing Stay hungry, stay foolish. UX Optimization
