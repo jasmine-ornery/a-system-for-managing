@@ -4,3 +4,4 @@ Sharding Database Frontend Backend Deployment
 UX Optimization Difficult roads often lead to beautiful destinations. DNS Routing A/B Testing Work hard in silence, let your success be your noise. Edge Computing Neural Networks Success is not in what you have, but who you are.
 Algorithm Artificial Intelligence Serverless A/B Testing Quantum Computing Success is not in what you have, but who you are. Frontend Kubernetes NLP Success is how high you bounce when you hit bottom. Version Control Containerization The only way to do great work is to love what you do.
 Kubernetes Difficult roads often lead to beautiful destinations. Python Act as if what you do makes a difference. It does. Security GraphQL RabbitMQ Replica Set Container Orchestration
+Database Indexing DNS Routing Parallel Processing UX Optimization Data Science
