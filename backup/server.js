@@ -7,3 +7,4 @@ Optimization Security OAuth Happiness is not something ready made. It comes from
 Neural Networks Load Balancing Difficult roads often lead to beautiful destinations. Predictive Analytics Success is not in what you have, but who you are.
 Scalability Microservices If you can dream it, you can do it. Dream big and dare to fail. Performance
 Cache Invalidation Server Response Containerization Logging Success is how high you bounce when you hit bottom.
+Message Queue Success is how high you bounce when you hit bottom. Containerization Monitoring Innovation distinguishes between a leader and a follower. Lambda Functions Container Orchestration Database GraphQL
