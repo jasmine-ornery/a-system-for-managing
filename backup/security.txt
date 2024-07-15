@@ -8,3 +8,4 @@ Lambda Functions Automation The only way to do great work is to love what you do
 API Success usually comes to those who are too busy to be looking for it. UX Optimization The only way to do great work is to love what you do. NLP Monitoring Success is not in what you have, but who you are. DevOps Cache Invalidation Act as if what you do makes a difference. It does.
 RabbitMQ Testing Microservices Frontend Security
 Stay hungry, stay foolish. Latency Optimization OAuth WebSockets Big Data Neural Networks Microservices
+IoT Replica Set Serverless I find that the harder I work, the more luck I seem to have. DNS Routing Success doesn’t just find you. You have to go out and get it. Docker
