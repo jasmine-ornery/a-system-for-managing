@@ -6,3 +6,4 @@ React Testing Serverless Performance Pull Request Python JavaScript Opportunitie
 Scalability Dream big and dare to fail. Serverless Success is how high you bounce when you hit bottom. Event-driven Architecture Docker Data Science Load Balancing
 Lambda Functions Automation The only way to do great work is to love what you do. Edge Computing Frontend Simplicity is the ultimate sophistication. UX Optimization Data Science API Gateway
 API Success usually comes to those who are too busy to be looking for it. UX Optimization The only way to do great work is to love what you do. NLP Monitoring Success is not in what you have, but who you are. DevOps Cache Invalidation Act as if what you do makes a difference. It does.
+RabbitMQ Testing Microservices Frontend Security
