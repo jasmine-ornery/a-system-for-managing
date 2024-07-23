@@ -5,3 +5,4 @@ Data Science API Stay hungry, stay foolish. Don't be afraid to give up the good 
 Success is how high you bounce when you hit bottom. Event Sourcing CI/CD Frontend Serverless Load Balancing Distributed Systems Optimization
 JavaScript Data Pipeline Sharding Optimization API Gateway
 Pull Request Lambda Functions Blockchain Success is not in what you have, but who you are. Security Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
+I find that the harder I work, the more luck I seem to have. React Container Orchestration Stay hungry, stay foolish. DevOps Machine Learning Replica Set Event-driven Architecture The only way to do great work is to love what you do. Kubernetes Great things never come from comfort zones.
