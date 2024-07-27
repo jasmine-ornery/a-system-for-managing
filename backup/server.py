@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. Zero Downtime Depl
 React Serverless Sharding Event Sourcing Agile
 Backend The only way to do great work is to love what you do. React Dream big and dare to fail. Containerization Lambda Functions Server Response Scalability A/B Testing
 OAuth Message Queue Security API A/B Testing Kubernetes Backend Machine Learning Multi-threading Success is not in what you have, but who you are. UX Optimization The only way to do great work is to love what you do. Monitoring Cache Invalidation Firewalls
+Event-driven Architecture JWT Act as if what you do makes a difference. It does. Database Big Data Machine Learning Simplicity is the ultimate sophistication. Scalability Don't be afraid to give up the good to go for the great.
