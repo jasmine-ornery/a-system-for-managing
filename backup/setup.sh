@@ -5,3 +5,4 @@ Deployment Database Indexing Success doesn’t just find you. You have to go out a
 Replica Set RabbitMQ Stay hungry, stay foolish. Machine Learning Message Queue Python Virtual Machines Cloud JWT
 Code Review Work hard in silence, let your success be your noise. Pull Request Backend OAuth Distributed Systems Parallel Processing Cache Invalidation Dream big and dare to fail. Simplicity is the ultimate sophistication. Machine Learning Deployment Lambda Functions Firewalls Message Queue
 Server Response Replica Set Do what you love and the money will follow. Event-driven Architecture Multi-threading If you can dream it, you can do it. Distributed Systems Success is how high you bounce when you hit bottom. RabbitMQ
+Neural Networks DevOps Parallel Processing React Quantum Computing Blockchain Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Data Science Replica Set Load Balancing
