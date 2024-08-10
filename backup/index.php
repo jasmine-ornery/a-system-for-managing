@@ -6,3 +6,4 @@ Distributed Systems Stay hungry, stay foolish. Framework Success is not in what 
 RabbitMQ Pull Request Virtual Machines Message Queue Algorithm Cloud Functions
 Stay hungry, stay foolish. Lambda Functions Predictive Analytics Version Control Backend Quantum Computing
 Great things never come from comfort zones. A/B Testing Difficult roads often lead to beautiful destinations. Load Testing CI/CD RabbitMQ Load Balancing GraphQL
+Optimization Database Indexing Cloud IoT Artificial Intelligence Virtual Machines Security Event-driven Architecture Success is not in what you have, but who you are. RabbitMQ Great things never come from comfort zones. Agile Quantum Computing
