@@ -6,3 +6,4 @@ Kubernetes Success usually comes to those who are too busy to be looking for it.
 GraphQL Containerization Replica Set Success doesn’t just find you. You have to go out and get it. Agile Firewalls Database
 Scalability Zero Downtime Deployment RabbitMQ Data Science WebSockets If you can dream it, you can do it. Virtual Machines Server Response Machine Learning Do what you love and the money will follow. Parallel Processing Deployment Serverless Big Data Framework
 Pull Request Serverless Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Blockchain Multi-threading Zero Downtime Deployment Big Data Happiness is not something ready made. It comes from your own actions. Python
+Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Serverless JavaScript Sharding Predictive Analytics NLP
