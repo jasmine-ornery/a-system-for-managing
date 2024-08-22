@@ -2,3 +2,4 @@ Backend Kafka Distributed Systems GraphQL Cache Invalidation Agile DevOps CI/CD 
 Load Testing Database Indexing Framework Event Sourcing Zero Downtime Deployment Optimization Quantum Computing Blockchain Innovation distinguishes between a leader and a follower. Virtual Machines
 Logging OAuth Frontend Database Kubernetes Server Response Artificial Intelligence Serverless Performance Multi-threading Event-driven Architecture
 Act as if what you do makes a difference. It does. Latency Optimization RabbitMQ Load Testing Containerization DevOps Testing
+Multi-threading Don't be afraid to give up the good to go for the great. Cloud Functions Serverless Scalability JavaScript Latency Optimization API Gateway Replica Set Machine Learning Logging Load Testing Automation Artificial Intelligence Virtual Machines

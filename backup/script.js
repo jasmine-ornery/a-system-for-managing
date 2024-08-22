@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. Cache Invalidation
 I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Kafka If you can dream it, you can do it. Big Data DevOps Database Indexing Blockchain
 Event Sourcing Success usually comes to those who are too busy to be looking for it. Blockchain WebSockets Kubernetes
 Simplicity is the ultimate sophistication. Automation Lambda Functions Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions.
+OAuth Performance Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. API API Gateway Docker UX Optimization Blockchain Success doesn’t just find you. You have to go out and get it. Latency Optimization Automation
