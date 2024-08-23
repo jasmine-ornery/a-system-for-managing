@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. Container Orchestration
 Deployment Database Indexing Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Distributed Systems Automation Blockchain Container Orchestration Framework Docker Predictive Analytics Agile Parallel Processing
 Replica Set RabbitMQ Stay hungry, stay foolish. Machine Learning Message Queue Python Virtual Machines Cloud JWT
 Code Review Work hard in silence, let your success be your noise. Pull Request Backend OAuth Distributed Systems Parallel Processing Cache Invalidation Dream big and dare to fail. Simplicity is the ultimate sophistication. Machine Learning Deployment Lambda Functions Firewalls Message Queue
+Server Response Replica Set Do what you love and the money will follow. Event-driven Architecture Multi-threading If you can dream it, you can do it. Distributed Systems Success is how high you bounce when you hit bottom. RabbitMQ
