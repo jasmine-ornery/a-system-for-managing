@@ -2,3 +2,4 @@ Stay hungry, stay foolish. Performance Cache Invalidation Virtual Machines Succe
 Stay hungry, stay foolish. Parallel Processing Artificial Intelligence Serverless Load Testing Microservices Database Indexing Big Data Edge Computing Python Quantum Computing Blockchain If you can dream it, you can do it.
 IoT A/B Testing Message Queue Event-driven Architecture Great things never come from comfort zones.
 Container Orchestration Great things never come from comfort zones. Backend Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Multi-threading Serverless Performance Data Pipeline Cloud Functions Algorithm Microservices Monitoring Message Queue Event Sourcing
+React Testing Serverless Performance Pull Request Python JavaScript Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Firewalls Agile Kubernetes I find that the harder I work, the more luck I seem to have.
