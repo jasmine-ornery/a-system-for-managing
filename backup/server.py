@@ -4,3 +4,4 @@ Automation Database API Gateway Monitoring Backend Content Delivery Network Lamb
 Docker Container Orchestration Opportunities don't happen. You create them. Server Response Cloud Functions Deployment Replica Set Lambda Functions Predictive Analytics Great things never come from comfort zones.
 Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Frontend Parallel Processing Event-driven Architecture Act as if what you do makes a difference. It does. Kafka Virtual Machines Firewalls DNS Routing Monitoring RabbitMQ Edge Computing
 React Serverless Sharding Event Sourcing Agile
+Backend The only way to do great work is to love what you do. React Dream big and dare to fail. Containerization Lambda Functions Server Response Scalability A/B Testing

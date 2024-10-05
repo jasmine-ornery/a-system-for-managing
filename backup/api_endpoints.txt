@@ -1,3 +1,4 @@
 Content Delivery Network Cache Invalidation Success is not in what you have, but who you are. Event Sourcing A/B Testing Blockchain Docker Logging Version Control Optimization Predictive Analytics Artificial Intelligence Act as if what you do makes a difference. It does. Container Orchestration
 Logging Replica Set IoT Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. RabbitMQ Agile Machine Learning Blockchain Parallel Processing
 Sharding Database Frontend Backend Deployment
+UX Optimization Difficult roads often lead to beautiful destinations. DNS Routing A/B Testing Work hard in silence, let your success be your noise. Edge Computing Neural Networks Success is not in what you have, but who you are.
