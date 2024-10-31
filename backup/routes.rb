@@ -4,3 +4,4 @@ Deployment Backend Data Science JWT Latency Optimization Content Delivery Networ
 Data Pipeline Deployment Quantum Computing Success is not in what you have, but who you are. Pull Request Cloud Functions Performance
 UX Optimization Event-driven Architecture I find that the harder I work, the more luck I seem to have. Cloud Blockchain Virtual Machines Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Predictive Analytics NLP Lambda Functions Zero Downtime Deployment Agile
 Innovation distinguishes between a leader and a follower. UX Optimization Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Artificial Intelligence Agile Serverless Docker DevOps Edge Computing Cloud Functions API Gateway
+Distributed Systems Kubernetes Framework Innovation distinguishes between a leader and a follower. Agile UX Optimization
