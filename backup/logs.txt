@@ -1,2 +1,3 @@
 Backend Kafka Distributed Systems GraphQL Cache Invalidation Agile DevOps CI/CD Innovation distinguishes between a leader and a follower. Edge Computing
 Load Testing Database Indexing Framework Event Sourcing Zero Downtime Deployment Optimization Quantum Computing Blockchain Innovation distinguishes between a leader and a follower. Virtual Machines
+Logging OAuth Frontend Database Kubernetes Server Response Artificial Intelligence Serverless Performance Multi-threading Event-driven Architecture
