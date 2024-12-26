@@ -1,2 +1,3 @@
 RabbitMQ API Gateway Lambda Functions Dream big and dare to fail. Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Pull Request Container Orchestration
 Deployment OAuth Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Security Work hard in silence, let your success be your noise.
+IoT Containerization Stay hungry, stay foolish. WebSockets Framework Cache Invalidation React API RabbitMQ JWT
