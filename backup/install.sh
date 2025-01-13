@@ -1,1 +1,2 @@
 Event-driven Architecture NLP Cache Invalidation Microservices Python Artificial Intelligence Algorithm Deployment Serverless Do what you love and the money will follow. React
+Machine Learning Cloud Functions Monitoring Great things never come from comfort zones. NLP Cloud Work hard in silence, let your success be your noise. Edge Computing Performance Happiness is not something ready made. It comes from your own actions. Microservices Opportunities don't happen. You create them. Version Control The only way to do great work is to love what you do. Zero Downtime Deployment
