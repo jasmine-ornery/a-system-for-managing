@@ -1,0 +1,1 @@
+Serverless Dream big and dare to fail. A/B Testing UX Optimization Agile Database If you can dream it, you can do it. Act as if what you do makes a difference. It does. DNS Routing Replica Set Kubernetes Load Testing Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.
