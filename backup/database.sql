@@ -1,0 +1,1 @@
+JavaScript Simplicity is the ultimate sophistication. Cache Invalidation Pull Request Don't be afraid to give up the good to go for the great. Load Testing Kafka OAuth Quantum Computing Multi-threading DevOps Lambda Functions Event Sourcing Success doesn’t just find you. You have to go out and get it.
