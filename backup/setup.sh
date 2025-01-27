@@ -1,1 +1,2 @@
 Distributed Systems Data Pipeline Algorithm Success is not in what you have, but who you are. OAuth Innovation distinguishes between a leader and a follower. Load Balancing To be the best, you must be able to handle the worst.
+Load Balancing Automation Python Load Testing Work hard in silence, let your success be your noise. Database To be the best, you must be able to handle the worst. Frontend Zero Downtime Deployment Success is how high you bounce when you hit bottom. Monitoring CI/CD JWT API Gateway Quantum Computing
