@@ -1,0 +1,1 @@
+API Gateway I find that the harder I work, the more luck I seem to have. RabbitMQ Backend JavaScript Artificial Intelligence Security React DevOps Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Event Sourcing Database
