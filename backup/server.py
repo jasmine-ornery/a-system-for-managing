@@ -1,0 +1,1 @@
+I find that the harder I work, the more luck I seem to have. Predictive Analytics Event-driven Architecture Latency Optimization Database Indexing Monitoring OAuth Opportunities don't happen. You create them. Virtual Machines RabbitMQ Big Data Python Data Science Security Multi-threading
