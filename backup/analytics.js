@@ -1,0 +1,1 @@
+RabbitMQ API Gateway Lambda Functions Dream big and dare to fail. Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Pull Request Container Orchestration
